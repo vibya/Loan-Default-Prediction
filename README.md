@@ -1,2 +1,8 @@
-# bank-loan-approver-app
-This application uses machine learning to predict the probability of a default for new loan applications and offer an appropriate interest rate offer.
+# loan-approver-app
+This application uses machine learning to predict the probability of a customer defaulting on their payments.
+
+This does not replace Underwriting but adds a layer on top to give additional insights in to a customer loan worthiness.
+
+All the customer and client information has been stripped from the code repo and been made to look as generic as possible.
+
+Please contact if you have specific questions about the model, data or any other aspects of this app.
