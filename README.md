@@ -1,4 +1,4 @@
-# loan-approver-app
+# loan-payment-default-predictor
 This application uses machine learning to predict the probability of a customer defaulting on their payments.
 
 This does not replace Underwriting but adds a layer on top to give additional insights in to a customer loan worthiness.
